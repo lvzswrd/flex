@@ -1,0 +1,5 @@
+.wrapper{background: gray; width: 1200px; margin: 0 auto; padding: 20px 0; outline: 2px solid black;}
+.outline{outline: 2px solid black;}
+.flex{ display: flex; justify-content: center; background: pink;}
+.px8{flex: 0 1 800px;}
+.px4{flex: 0 1 400px;}
